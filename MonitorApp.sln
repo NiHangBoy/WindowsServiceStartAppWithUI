@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorQQ", "MonitorQQ\MonitorQQ.csproj", "{45AB94DF-7822-4365-940A-7B9E929FF7BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorApp", "MonitorApp\MonitorApp.csproj", "{45AB94DF-7822-4365-940A-7B9E929FF7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{46C1E453-7C4C-4B7C-890E-BE702A8630EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{45AB94DF-7822-4365-940A-7B9E929FF7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45AB94DF-7822-4365-940A-7B9E929FF7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45AB94DF-7822-4365-940A-7B9E929FF7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C1E453-7C4C-4B7C-890E-BE702A8630EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C1E453-7C4C-4B7C-890E-BE702A8630EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C1E453-7C4C-4B7C-890E-BE702A8630EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C1E453-7C4C-4B7C-890E-BE702A8630EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
-﻿namespace MonitorQQ
+﻿namespace MonitorApp
 {
-    partial class Service1
+    partial class MonitorAppDebug
     {
         /// <summary> 
         /// 必需的设计器变量。
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // MonitorAppDebug
+            // 
+            this.ServiceName = "MonitorAppDebug";
+
         }
 
         #endregion
